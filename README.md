@@ -45,12 +45,13 @@ Com este exercício, foi possível aprofundar os conhecimentos em:
 
 O resultado deste exercício é um dashboard funcional, interativo e visualmente atraente, que exemplifica como o Excel pode ser uma ferramenta poderosa para apresentação de dados e tomada de decisões estratégicas.
 
-![Dashboard Preview](image.png)
+![Dashboard Preview](ImageDashboard.png)
 
 ## 📁 Estrutura do Projeto
 
-- `image.png`: Imagem do dashboard construído.
+- `ImageDashboard.png`: Imagem do dashboard construído.
 - `README.md`: Documentação explicativa do projeto.
+- `Meu Dashboard em Excel.xlsx`: Arquivo excel com o Dashboard construído. 
 
 ---
 
